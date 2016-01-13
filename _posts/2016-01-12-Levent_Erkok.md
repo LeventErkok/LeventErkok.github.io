@@ -10,7 +10,7 @@ E-mail: erkokl at gmail.com
 
 ### Curriculum Vitae
    
- * [CV](papers/erkok-cv.pdf)
+ * [CV](http://leventerkok.github.io/papers/erkok-cv.pdf)
 
 ### Software
 
