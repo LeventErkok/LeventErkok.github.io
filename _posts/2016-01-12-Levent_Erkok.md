@@ -51,7 +51,7 @@ E-mail: erkokl at gmail.com
 
  * Levent Erkök, John Matthews  
    [Using Yices as an automated solver in Isabelle/HOL](http://leventerkok.github.io/papers/ismt_afm08.pdf)  
-   Automated Formal Methods'08, Princeton, New Jersey, USA. July, 2008.  
+   Automated Formal Methods'08, Princeton, New Jersey, USA. July, 2008.
    [(slides)](http://leventerkok.github.io/papers/ismt_afm08Talk.pdf) [(bib)](http://leventerkok.github.io/papers/ismt.bib.txt)
 
  * Rebekah Leslie, Levent Erkök, Flemming Andersen  
@@ -64,46 +64,52 @@ E-mail: erkokl at gmail.com
    International Sematech APC/AEC Symposium XVI, Poster Session, September 2004.
    [(bib)](http://leventerkok.github.io/papers/apc04.bib.txt)  
 
- <li><font size="2">Levent Erkök<br>
- <i><b>Formal verification of controller transactions using Computation Tree Logic</b></i><br>
- Intel Design and Test Technology Conference, DTTC'04, August 2004. <br>
- <font color="#ffffff"><font color="#999999">[not electronically available] </font> </font>[<a href="https://sites.google.com/site/leventerkok/dttc04.bib?attredirects=0">bib</a>]</font></li>
- <li><font size="2">Levent Erkök<br>
- <span style="font-weight:bold;font-style:italic">Value Recursion in Monadic Computations</span><br>
- PhD Dissertation, Oregon Graduate Institute School of Science Engineering, OHSU. October 2002.<br>
- [<a href="https://sites.google.com/site/leventerkok/erkok-thesis.pdf?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/erkok-thesis.bib?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">bib</a>] [<a href="https://sites.google.com/site/leventerkok/erkok-thesis-errata.pdf?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">errata</a>] [<a href="https://sites.google.com/site/leventerkok/erkok-defenseSlides.pdf?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">slides</a>]</font></li>
- <li><font size="2">Levent Erkök, John Launchbury<br>
- <i><b><span>A Recursive do for Haskell</span></b></i> <br>
- <span>Proc. of 2002 ACM SIGPLAN Workshop on Haskell, 		 Haskell'02 (Pittsburgh, PA, USA, 3 Oct. 2002)</span>, pp. 29-37, ACM Press, 2002.<br>
-  [<a href="https://sites.google.com/site/leventerkok/recdo.pdf?attredirects=0">pdf</a>] <span style="text-decoration:underline">[</span><a href="https://sites.google.com/site/leventerkok/recdo.bib?attredirects=0">bib</a>] &nbsp;</font></li>
-  <li><font size="2">Levent Erkök, John Launchbury, Andrew Moran<span style="font-weight:bold;font-style:italic"><br>
-  Semantics of Value Recursion for Monadic 		 Input/Output</span><br>
-  <span>Theoretical Informatics and Applications</span>, 36(2), pp. 155-180, 2002. <br>
-  [<a href="https://sites.google.com/site/leventerkok/tiaFixIO.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/tiaFixIO.bib?attredirects=0">bib</a>]</font></li>
-  <li><font size="2">Levent Erkök, John Launchbury, Andrew Moran<br>
-  <span style="font-weight:bold;font-style:italic">Semantics of fixIO</span><br>
-  Workshop on Fixed points in Computer Science Workshop, FICS'01. Firenze, Italy. September, 2001.<br>
-  [<a href="https://sites.google.com/site/leventerkok/fics.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/fics.bib?attredirects=0">bib</a>]</font></li>
-  <li><font size="2">Levent Erkök, John Launchbury<br>
-  <span style="font-weight:bold;font-style:italic">Recursive Monadic Bindings</span><br>
-  <span>Proc. of 5th ACM SIGPLAN Int. Conf. on Functional 		 Programming, ICFP'00 (Montréal, Canada, 18–21 		 Sept. 2000)</span>, pp. 174-185, ACM Press, 2000.<br>
-  [<a href="https://sites.google.com/site/leventerkok/mfix.pdf?attredirects=0">pdf</a>] <span style="text-decoration:underline">[</span><a href="https://sites.google.com/site/leventerkok/mfix.bib?attredirects=0">bib</a>]</font></li>
-  <ul></ul>
-  <li><span style="color:rgb(102,102,102)"><font size="2">Levent Erkök, John Launchbury<br>
-  <span style="font-weight:bold;font-style:italic">A Recursive do for Haskell: Design and Implementation</span><br>
-  Technical Report CSE-00-14, Oregon Graduate Institute Of Science and Technology, August 2000.<br>
-  [<a href="https://sites.google.com/site/leventerkok/mdo.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/mdo.bib?attredirects=0">bib</a>]</font></span></li>
-  <ul></ul>
-  <li><span style="color:rgb(102,102,102)"><font size="2">Levent Erkök, John Launchbury<br>
-  <span style="font-weight:bold;font-style:italic">Recursive Monadic Bindings: Technical Development and Details</span><br>
-  Technical Report CSE-00-11, Oregon Graduate Institute Of Science and Technology, June 2000.<br>
-  [<a href="https://sites.google.com/site/leventerkok/mfixTR.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/mfixTR.bib?attredirects=0">bib</a>]</font></span></li>
-  <li><font color="#666666" size="2"><span style="color:rgb(103,103,103)">Levent Erkök<br>
-  <i><b>A partial evaluator and post-optimizer for a flow chart language</b></i><br>
-  M.Sc. Thesis, Middle East Technical University, Ankara, Turkey. July 1997.<br>
-  [<a href="https://sites.google.com/site/leventerkok/erkok-msc.pdf?attredirects=0" style="color:rgb(204,51,255)!important;text-decoration:underline">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/msc.bib?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">bib</a>]</span></font></li>
-  <ul style="color:rgb(102,102,102)"></ul>
-  <li><span style="color:rgb(102,102,102)"><font size="2"><font><span style="font-family:verdana">Osman Burchan Bayaz</span></font><font>ıt</font><font><span style="font-family:verdana">, </span>Levent Erkök, Okan Uluda</font><font>ğ</font><font>, Fato</font><font>ş</font><font> Yarman Vural</font><font style="font-family:verdana"><br>
-  <span style="font-weight:bold;font-style:italic">Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations</span><br>
-  Technical Report 95-10, Middle East Technical University Computer Engineering Department, July 1995.</font><font><br>
-  [<a href="https://sites.google.com/site/leventerkok/markov.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/markov.bib?attredirects=0">bib</a>]&nbsp;</font></font></span></li></ul>
+ * Levent Erkök  
+   Formal verification of controller transactions using Computation Tree Logic  
+   Intel Design and Test Technology Conference, DTTC'04, August 2004.
+   [pdf not electronically available] [(bib)](http://leventerkok.github.io/papers/dttc04.bib.txt)
+
+ * Levent Erkök  
+   [Value Recursion in Monadic Computations](http://leventerkok.github.io/papers/erkok-thesis.pdf)  
+   PhD Dissertation, Oregon Graduate Institute School of Science Engineering, OHSU. October 2002.
+   [(bib)](http://leventerkok.github.io/papers/erkok-thesis.bib.txt) [(slides)](http://leventerkok.github.io/papers/erkok-defenseSlides.pdf) [(errata)](http://leventerkok.github.io/papers/erkok-thesis-errata.pdf)
+
+ * Levent Erkök, John Launchbury  
+   [A Recursive do for Haskell](http://leventerkok.github.io/papers/recdo.pdf)  
+   Proc. of 2002 ACM SIGPLAN Workshop on Haskell, Haskell'02 (Pittsburgh, PA, USA, 3 Oct. 2002), pp. 29-37, ACM Press, 2002.
+   [(bib)](http://leventerkok.github.io/papers/recdo.bib.txt)
+
+ * Levent Erkök, John Launchbury, Andrew Moran  
+   [Semantics of Value Recursion for Monadic Input/Output](http://leventerkok.github.io/papers/tiaFixIO.pdf)  
+   Theoretical Informatics and Applications, 36(2), pp. 155-180, 2002.
+   [(bib)](http://leventerkok.github.io/papers/tiaFixIO.bib.txt)
+
+ * Levent Erkök, John Launchbury, Andrew Moran  
+   [Semantics of fixIO](http://leventerkok.github.io/papers/fics.pdf)  
+   Workshop on Fixed points in Computer Science Workshop, FICS'01. Firenze, Italy. September, 2001.
+   [(bib)](http://leventerkok.github.io/papers/fics.bib.txt)
+
+ * Levent Erkök, John Launchbury  
+   [Recursive Monadic Bindings](http://leventerkok.github.io/papers/mfix.pdf)  
+   Proc. of 5th ACM SIGPLAN Int. Conf. on Functional Programming, ICFP'00 (Montréal, Canada, 18–21 Sept. 2000), pp. 174-185, ACM Press, 2000.
+   [(bib)](http://leventerkok.github.io/papers/mfix.bib.txt)
+
+ * Levent Erkök, John Launchbury  
+   [A Recursive do for Haskell: Design and Implementation](http://leventerkok.github.io/papers/mdo.pdf)  
+   Technical Report CSE-00-14, Oregon Graduate Institute Of Science and Technology, August 2000.
+   [(bib)](http://leventerkok.github.io/papers/mdo.bib.txt)
+
+ * Levent Erkök, John Launchbury  
+   [Recursive Monadic Bindings: Technical Development and Details](http://leventerkok.github.io/papers/mfixTR.pdf)  
+   Technical Report CSE-00-11, Oregon Graduate Institute Of Science and Technology, June 2000.
+   [(bib)](http://leventerkok.github.io/papers/mfixTR.bib.txt)
+
+ * Levent Erkök  
+   [A partial evaluator and post-optimizer for a flow chart language](http://leventerkok.github.io/papers/erkok-msc.pdf)  
+   M.Sc. Thesis, Middle East Technical University, Ankara, Turkey. July 1997.
+   [(bib)](http://leventerkok.github.io/papers/msc.bib.txt)
+
+ * Osman Burçhan Bayazıt, Levent Erkök, Okan Uludağ, Fatoş Yarman Vural  
+   [Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations](http://leventerkok.github.io/papers/markov.pdf)  
+   Technical Report 95-10, Middle East Technical University Computer Engineering Department, July 1995.
+   [(bib)](http://leventerkok.github.io/papers/markov.bib.txt)

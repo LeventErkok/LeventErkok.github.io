@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-12T22:24:14-08:00</updated>
+ <updated>2016-01-12T23:07:17-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -76,7 +76,7 @@ Proc. of 2008 Theorem Proving and Higher Order Logics Conference, TPHOLS’08. M
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Matthews&lt;br /&gt;
 &lt;a href=&quot;http://leventerkok.github.io/papers/ismt_afm08.pdf&quot;&gt;Using Yices as an automated solver in Isabelle/HOL&lt;/a&gt;&lt;br /&gt;
-Automated Formal Methods’08, Princeton, New Jersey, USA. July, 2008.&lt;br /&gt;
+Automated Formal Methods’08, Princeton, New Jersey, USA. July, 2008.
 &lt;a href=&quot;http://leventerkok.github.io/papers/ismt_afm08Talk.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/ismt.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -91,52 +91,67 @@ Microkernels and Embedded Systems Workshop, MIKES’07. Sydney, Australia. Janua
 International Sematech APC/AEC Symposium XVI, Poster Session, September 2004.
 &lt;a href=&quot;http://leventerkok.github.io/papers/apc04.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök&lt;br /&gt;
+Formal verification of controller transactions using Computation Tree Logic&lt;br /&gt;
+Intel Design and Test Technology Conference, DTTC’04, August 2004.
+[pdf not electronically available] &lt;a href=&quot;http://leventerkok.github.io/papers/dttc04.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis.pdf&quot;&gt;Value Recursion in Monadic Computations&lt;/a&gt;&lt;br /&gt;
+PhD Dissertation, Oregon Graduate Institute School of Science Engineering, OHSU. October 2002.
+&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis.bib.txt&quot;&gt;(bib)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/erkok-defenseSlides.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis-errata.pdf&quot;&gt;(errata)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/recdo.pdf&quot;&gt;A Recursive do for Haskell&lt;/a&gt;&lt;br /&gt;
+Proc. of 2002 ACM SIGPLAN Workshop on Haskell, Haskell’02 (Pittsburgh, PA, USA, 3 Oct. 2002), pp. 29-37, ACM Press, 2002.
+&lt;a href=&quot;http://leventerkok.github.io/papers/recdo.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/tiaFixIO.pdf&quot;&gt;Semantics of Value Recursion for Monadic Input/Output&lt;/a&gt;&lt;br /&gt;
+Theoretical Informatics and Applications, 36(2), pp. 155-180, 2002.
+&lt;a href=&quot;http://leventerkok.github.io/papers/tiaFixIO.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/fics.pdf&quot;&gt;Semantics of fixIO&lt;/a&gt;&lt;br /&gt;
+Workshop on Fixed points in Computer Science Workshop, FICS’01. Firenze, Italy. September, 2001.
+&lt;a href=&quot;http://leventerkok.github.io/papers/fics.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfix.pdf&quot;&gt;Recursive Monadic Bindings&lt;/a&gt;&lt;br /&gt;
+Proc. of 5th ACM SIGPLAN Int. Conf. on Functional Programming, ICFP’00 (Montréal, Canada, 18–21 Sept. 2000), pp. 174-185, ACM Press, 2000.
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfix.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mdo.pdf&quot;&gt;A Recursive do for Haskell: Design and Implementation&lt;/a&gt;&lt;br /&gt;
+Technical Report CSE-00-14, Oregon Graduate Institute Of Science and Technology, August 2000.
+&lt;a href=&quot;http://leventerkok.github.io/papers/mdo.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfixTR.pdf&quot;&gt;Recursive Monadic Bindings: Technical Development and Details&lt;/a&gt;&lt;br /&gt;
+Technical Report CSE-00-11, Oregon Graduate Institute Of Science and Technology, June 2000.
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfixTR.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-msc.pdf&quot;&gt;A partial evaluator and post-optimizer for a flow chart language&lt;/a&gt;&lt;br /&gt;
+M.Sc. Thesis, Middle East Technical University, Ankara, Turkey. July 1997.
+&lt;a href=&quot;http://leventerkok.github.io/papers/msc.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Osman Burçhan Bayazıt, Levent Erkök, Okan Uludağ, Fatoş Yarman Vural&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/markov.pdf&quot;&gt;Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations&lt;/a&gt;&lt;br /&gt;
+Technical Report 95-10, Middle East Technical University Computer Engineering Department, July 1995.
+&lt;a href=&quot;http://leventerkok.github.io/papers/markov.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök&lt;br /&gt;
- &lt;i&gt;&lt;b&gt;Formal verification of controller transactions using Computation Tree Logic&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
- Intel Design and Test Technology Conference, DTTC&#39;04, August 2004. &lt;br /&gt;
- &lt;font color=&quot;#ffffff&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;[not electronically available] &lt;/font&gt; &lt;/font&gt;[&lt;a href=&quot;https://sites.google.com/site/leventerkok/dttc04.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök&lt;br /&gt;
- &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;Value Recursion in Monadic Computations&lt;/span&gt;&lt;br /&gt;
- PhD Dissertation, Oregon Graduate Institute School of Science Engineering, OHSU. October 2002.&lt;br /&gt;
- [&lt;a href=&quot;https://sites.google.com/site/leventerkok/erkok-thesis.pdf?attredirects=0&quot; style=&quot;color:rgb(51,102,255)!important;text-decoration:underline&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/erkok-thesis.bib?attredirects=0&quot; style=&quot;color:rgb(51,102,255)!important;text-decoration:underline&quot;&gt;bib&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/erkok-thesis-errata.pdf?attredirects=0&quot; style=&quot;color:rgb(51,102,255)!important;text-decoration:underline&quot;&gt;errata&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/erkok-defenseSlides.pdf?attredirects=0&quot; style=&quot;color:rgb(51,102,255)!important;text-decoration:underline&quot;&gt;slides&lt;/a&gt;]&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury&lt;br /&gt;
- &lt;i&gt;&lt;b&gt;&lt;span&gt;A Recursive do for Haskell&lt;/span&gt;&lt;/b&gt;&lt;/i&gt; &lt;br /&gt;
- &lt;span&gt;Proc. of 2002 ACM SIGPLAN Workshop on Haskell, 		 Haskell&#39;02 (Pittsburgh, PA, USA, 3 Oct. 2002)&lt;/span&gt;, pp. 29-37, ACM Press, 2002.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/recdo.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] &lt;span style=&quot;text-decoration:underline&quot;&gt;[&lt;/span&gt;&lt;a href=&quot;https://sites.google.com/site/leventerkok/recdo.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;] &amp;nbsp;&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;&lt;br /&gt;
-  Semantics of Value Recursion for Monadic 		 Input/Output&lt;/span&gt;&lt;br /&gt;
-  &lt;span&gt;Theoretical Informatics and Applications&lt;/span&gt;, 36(2), pp. 155-180, 2002. &lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/tiaFixIO.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/tiaFixIO.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;br /&gt;
-  &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;Semantics of fixIO&lt;/span&gt;&lt;br /&gt;
-  Workshop on Fixed points in Computer Science Workshop, FICS&#39;01. Firenze, Italy. September, 2001.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/fics.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/fics.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-  &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;Recursive Monadic Bindings&lt;/span&gt;&lt;br /&gt;
-  &lt;span&gt;Proc. of 5th ACM SIGPLAN Int. Conf. on Functional 		 Programming, ICFP&#39;00 (Montréal, Canada, 18–21 		 Sept. 2000)&lt;/span&gt;, pp. 174-185, ACM Press, 2000.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/mfix.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] &lt;span style=&quot;text-decoration:underline&quot;&gt;[&lt;/span&gt;&lt;a href=&quot;https://sites.google.com/site/leventerkok/mfix.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/li&gt;
-&lt;ul&gt;&lt;/ul&gt;
-&lt;li&gt;&lt;span style=&quot;color:rgb(102,102,102)&quot;&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-  &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;A Recursive do for Haskell: Design and Implementation&lt;/span&gt;&lt;br /&gt;
-  Technical Report CSE-00-14, Oregon Graduate Institute Of Science and Technology, August 2000.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/mdo.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/mdo.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;ul&gt;&lt;/ul&gt;
-&lt;li&gt;&lt;span style=&quot;color:rgb(102,102,102)&quot;&gt;&lt;font size=&quot;2&quot;&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-  &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;Recursive Monadic Bindings: Technical Development and Details&lt;/span&gt;&lt;br /&gt;
-  Technical Report CSE-00-11, Oregon Graduate Institute Of Science and Technology, June 2000.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/mfixTR.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/mfixTR.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;font color=&quot;#666666&quot; size=&quot;2&quot;&gt;&lt;span style=&quot;color:rgb(103,103,103)&quot;&gt;Levent Erkök&lt;br /&gt;
-  &lt;i&gt;&lt;b&gt;A partial evaluator and post-optimizer for a flow chart language&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
-  M.Sc. Thesis, Middle East Technical University, Ankara, Turkey. July 1997.&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/erkok-msc.pdf?attredirects=0&quot; style=&quot;color:rgb(204,51,255)!important;text-decoration:underline&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/msc.bib?attredirects=0&quot; style=&quot;color:rgb(51,102,255)!important;text-decoration:underline&quot;&gt;bib&lt;/a&gt;]&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;
-&lt;ul style=&quot;color:rgb(102,102,102)&quot;&gt;&lt;/ul&gt;
-&lt;li&gt;&lt;span style=&quot;color:rgb(102,102,102)&quot;&gt;&lt;font size=&quot;2&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-family:verdana&quot;&gt;Osman Burchan Bayaz&lt;/span&gt;&lt;/font&gt;&lt;font&gt;ıt&lt;/font&gt;&lt;font&gt;&lt;span style=&quot;font-family:verdana&quot;&gt;, &lt;/span&gt;Levent Erkök, Okan Uluda&lt;/font&gt;&lt;font&gt;ğ&lt;/font&gt;&lt;font&gt;, Fato&lt;/font&gt;&lt;font&gt;ş&lt;/font&gt;&lt;font&gt; Yarman Vural&lt;/font&gt;&lt;font style=&quot;font-family:verdana&quot;&gt;&lt;br /&gt;
-  &lt;span style=&quot;font-weight:bold;font-style:italic&quot;&gt;Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations&lt;/span&gt;&lt;br /&gt;
-  Technical Report 95-10, Middle East Technical University Computer Engineering Department, July 1995.&lt;/font&gt;&lt;font&gt;&lt;br /&gt;
-  [&lt;a href=&quot;https://sites.google.com/site/leventerkok/markov.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/markov.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;p&gt;&amp;lt;/ul&amp;gt;&lt;/p&gt;
 </content>
  </entry>
  
