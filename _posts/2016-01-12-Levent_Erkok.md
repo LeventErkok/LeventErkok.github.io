@@ -26,37 +26,43 @@ E-mail: erkokl at gmail.com
 
  * Iavor Diatchi, Lee Pike, Levent Erkök  
    [Practical Considerations in Control-Flow Integrity Monitoring](http://leventerkok.github.io/papers/sectest11.pdf)  
-   In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE. [(bib)](http://leventerkok.github.io/papers/sectest11.bib.txt)
+   In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE.
+   [(bib)](http://leventerkok.github.io/papers/sectest11.bib.txt)
 
+ * Levent Erkök, Magnus Carlsson, Adam Wick  
+   [Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol](http://leventerkok.github.io/papers/cryptol_FMCAD09.pdf)  
+   In Formal Methods in Computer Aided Design Conference, FMCAD'09, Austin, TX, November 2009, IEEE.
+   [(slides)](http://leventerkok.github.io/papers/cryptol_FMCAD09Slides.pdf) [(bib)](http://leventerkok.github.io/papers/coverification.bib.txt)
 
-<li><font size="2">Levent&nbsp;Erkök, Magnus Carlsson, Adam Wick<br>
-<b><i>Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol<br>
-<span style="font-weight:normal;font-style:normal">In Formal Methods in Computer Aided Design Conference, FMCAD'09, Austin, TX, November 2009, IEEE.<br>
-[<a href="https://sites.google.com/site/leventerkok/cryptol_FMCAD09.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/coverification.bib?attredirects=0">bib</a>] [<a href="https://sites.google.com/site/leventerkok/cryptol_FMCAD09Slides.pdf?attredirects=0">slides</a>]&nbsp;[<a href="http://www.cryptol.net" rel="nofollow" style="color:rgb(51,102,255)!important;text-decoration:underline">Cryptol</a>]</span></i></b></font></li>
-<li><font size="2">Levent&nbsp;Erkök, John Matthews<br>
-<span style="font-style:italic;font-weight:bold">High assurance &nbsp;programming in Cryptol<br>
-<span style="font-weight:normal;font-style:normal">In CSIIRW'09: Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research, Oak Ridge, TN, April 2009, ACM.<br>
-[<a href="https://sites.google.com/site/leventerkok/csiirw_09.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/csiirw_09.bib?attredirects=0">bib</a>]&nbsp;[<a href="http://www.cryptol.net" rel="nofollow" style="color:rgb(51,102,255)!important;text-decoration:underline">Cryptol</a>]</span></span></font></li>
-<li><font size="2">Levent Erkök, John Matthews<i><b><br>
-Pragmatic Equivalence and Safety Checking in Cryptol<br>
-</b></i>In Programming Languages meets Program Verification Workshop, PLPV'09. Savannah, Georgia, USA. January, 2009.<br>
-[<a href="https://sites.google.com/site/leventerkok/cryptol_PLPV09.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/plpv09.bib?attredirects=0">bib</a>] [<a href="https://sites.google.com/site/leventerkok/cryptol_PLPV09_Slides.pdf?attredirects=0">slides</a>] [<a href="http://www.cryptol.net" rel="nofollow">Cryptol</a>]&nbsp;</font></li>
-<li><font size="2">Lukas Bulwahn, Alexander Krauss, Florian Haftmann, Levent Erkök, John Matthews<br>
-<i><b>Imperative Functional Programming with Isabelle/HOL<br>
-</b></i>Proc. of 2008 Theorem Proving and Higher Order Logics Conference, TPHOLS'08. Montreal, Canada. August, 2008.<br>
-[<a href="https://sites.google.com/site/leventerkok/imfphol_tphols08.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/imfphol.bib?attredirects=0">bib</a>]&nbsp;</font></li>
-<li><font size="2">Levent Erkök, John Matthews<br>
-<i><b>Using Yices as an automated solver in Isabelle/HOL<br>
-</b></i>Automated Formal Methods'08, Princeton, New Jersey, USA. July, 2008.<br>
-[<a href="https://sites.google.com/site/leventerkok/ismt_afm08.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/ismt.bib?attredirects=0">bib</a>] [<a href="https://sites.google.com/site/leventerkok/ismt_afm08Talk.pdf?attredirects=0">slides</a>] [<a href="http://corp.galois.com/isabelle-ismt/" rel="nofollow">software</a>]</font></li>
-<li><font size="2">Rebekah Leslie, Levent Erkök, Flemming Andersen<br>
-<i><b>Formalizing Information Flow in a Haskell Hypervisor</b></i><br>
- Microkernels and Embedded Systems Workshop, MIKES'07. Sydney, Australia. January, 2007.<br>
- [<a href="https://sites.google.com/site/leventerkok/hhv.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/hhv.bib?attredirects=0">bib</a>]</font></li>
- <li><font size="2">Levent Erkök<br>
- <i><b>Application of formal methods in factory automation to reduce configuration-induced misprocessing risks<br>
- </b></i>International Sematech APC/AEC Symposium XVI, Poster Session, September 2004.<br>
- [<a href="https://sites.google.com/site/leventerkok/ctapc.pdf?attredirects=0" style="color:rgb(204,51,255)!important;text-decoration:underline">pdf</a>]&nbsp;<font color="#ffffff" style="color:rgb(102,102,102)">[<a href="https://sites.google.com/site/leventerkok/apc04.bib?attredirects=0" style="color:rgb(51,102,255)!important;text-decoration:underline">bib</a>]&nbsp;</font></font></li>
+ * Levent Erkök, John Matthews  
+   [High assurance programming in Cryptol](http://leventerkok.github.io/papers/csiirw_09.pdf)  
+   In CSIIRW'09: Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research, Oak Ridge, TN, April 2009, ACM.
+   [(bib)](http://leventerkok.github.io/papers/csiirw_09.bib.txt)
+
+ * Levent Erkök, John Matthews  
+   [Pragmatic Equivalence and Safety Checking in Cryptol](http://leventerkok.github.io/papers/cryptol_PLPV09.pdf)  
+   In Programming Languages meets Program Verification Workshop, PLPV'09. Savannah, Georgia, USA. January, 2009.
+   [(slides)](http://leventerkok.github.io/papers/cryptol_PLPV09_Slides.pdf) [(bib)](http://leventerkok.github.io/papers/plpv09.bib.txt)
+
+ * Lukas Bulwahn, Alexander Krauss, Florian Haftmann, Levent Erkök, John Matthews  
+   [Imperative Functional Programming with Isabelle/HOL](http://leventerkok.github.io/papers/imfphol_tphols08.pdf)  
+   Proc. of 2008 Theorem Proving and Higher Order Logics Conference, TPHOLS'08. Montreal, Canada. August, 2008.
+   [(bib)](http://leventerkok.github.io/papers/imfphol.bib.txt)
+
+ * Levent Erkök, John Matthews  
+   [Using Yices as an automated solver in Isabelle/HOL](http://leventerkok.github.io/papers/ismt_afm08.pdf)  
+   Automated Formal Methods'08, Princeton, New Jersey, USA. July, 2008.  
+   [(slides)](http://leventerkok.github.io/papers/ismt_afm08Talk.pdf) [(bib)](http://leventerkok.github.io/papers/ismt.bib.txt)
+
+ * Rebekah Leslie, Levent Erkök, Flemming Andersen  
+   [Formalizing Information Flow in a Haskell Hypervisor](http://leventerkok.github.io/papers/hhv.pdf)  
+   Microkernels and Embedded Systems Workshop, MIKES'07. Sydney, Australia. January, 2007.
+   [(bib)](http://leventerkok.github.io/papers/hhv.bib.txt)
+
+ * Levent Erkök  
+   [Application of formal methods in factory automation to reduce configuration-induced misprocessing risks](http://leventerkok.github.io/papers/ctapc.pdf)  
+   International Sematech APC/AEC Symposium XVI, Poster Session, September 2004.
+   [(bib)](http://leventerkok.github.io/papers/apc04.bib.txt)  
 
  <li><font size="2">Levent Erkök<br>
  <i><b>Formal verification of controller transactions using Computation Tree Logic</b></i><br>
