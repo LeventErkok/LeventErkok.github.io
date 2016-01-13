@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-12T20:01:38-08:00</updated>
+ <updated>2016-01-12T21:32:55-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -17,9 +17,9 @@
    <link href="http://leventerkok.github.io//2016/01/12/Levent_Erkok/"/>
    <updated>2016-01-12T00:00:00-08:00</updated>
    <id>http://leventerkok.github.io//2016/01/12/Levent_Erkok</id>
-   <content type="html">&lt;p&gt;Intel Corporation
-2501 NW 229th Ave
-Hillsboro, OR 97124
+   <content type="html">&lt;p&gt;Intel Corporation&lt;br /&gt;
+2501 NW 229th Ave&lt;br /&gt;
+Hillsboro, OR 97124&lt;br /&gt;
 E-mail: erkokl at gmail.com&lt;/p&gt;
 
 &lt;h3 id=&quot;curriculum-vitae&quot;&gt;Curriculum Vitae&lt;/h3&gt;
@@ -32,19 +32,22 @@ E-mail: erkokl at gmail.com&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbv&quot;&gt;SBV: SMT Based Verification in Haskell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbvPlugin&quot;&gt;SBVPlugin&lt;/a&gt; GHC Core-plugin for SBV&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/hArduino&quot;&gt;HArduino&lt;/a&gt; Control your Arduino board from Haskell&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/liearEqSolver&quot;&gt;LinearEqSolver&lt;/a&gt; Solve systems of linear equations using SMT solvers&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/CrackNum&quot;&gt;CrackNum&lt;/a&gt; Analyze/decode/encode IEEE 754 floating-point values.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://corp.galois.com/isabelle-ismt&quot;&gt;ISMT&lt;/a&gt; Yices SMT solver as an Isabelle theorem prover tactic.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/sbvPlugin&quot;&gt;SBVPlugin: GHC Core-plugin for SBV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/hArduino&quot;&gt;HArduino: Control your Arduino from Haskell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/linearEqSolver&quot;&gt;Solve systems of Linear Equations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/crackNum&quot;&gt;Decode/encode IEEE-754 Floating point numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/conjugateGradient&quot;&gt;Sparse matrix linear equation solver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/ismt&quot;&gt;Yices as an Isabelle theorem prover tactic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
 
-&lt;li&gt;&lt;font size=&quot;2&quot;&gt;Iavor Diatchi, Lee Pike, Levent Erkök&lt;br /&gt;
-&lt;b&gt;&lt;i&gt;Practical Considerations in Control-Flow Integrity Monitoring&lt;br /&gt;
-&lt;span style=&quot;font-style:normal;font-weight:normal&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;span style=&quot;font-weight:normal;font-style:normal&quot;&gt;In Second International Workshop on Security Testing Workshop, SECTEST&#39;11, Berlin, Germany, March 2011, IEEE.&lt;br /&gt;
-[&lt;a href=&quot;https://sites.google.com/site/leventerkok/sectest11.pdf?attredirects=0&quot;&gt;pdf&lt;/a&gt;] [&lt;a href=&quot;https://sites.google.com/site/leventerkok/sectest11.bib?attredirects=0&quot;&gt;bib&lt;/a&gt;]&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;ul&gt;
+  &lt;li&gt;Iavor Diatchi, Lee Pike, Levent Erkök&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/sectest11.pdf&quot;&gt;Practical Considerations in Control-Flow Integrity Monitoring&lt;/a&gt;&lt;br /&gt;
+In Second International Workshop on Security Testing Workshop, SECTEST’11, Berlin, Germany, March 2011, IEEE.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;li&gt;&lt;font size=&quot;2&quot;&gt;Levent&amp;nbsp;Erkök, Magnus Carlsson, Adam Wick&lt;br /&gt;
 &lt;b&gt;&lt;i&gt;Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol&lt;br /&gt;
 &lt;span style=&quot;font-weight:normal;font-style:normal&quot;&gt;In Formal Methods in Computer Aided Design Conference, FMCAD&#39;09, Austin, TX, November 2009, IEEE.&lt;br /&gt;

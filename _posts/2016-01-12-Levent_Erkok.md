@@ -3,10 +3,10 @@ layout: post
 title: Levent Erkök
 ---
 
-Intel Corporation
-2501 NW 229th Ave
-Hillsboro, OR 97124
-E-mail: erkokl at gmail.com
+Intel Corporation  
+2501 NW 229th Ave  
+Hillsboro, OR 97124  
+E-mail: erkokl at gmail.com  
 
 ### Curriculum Vitae
    
@@ -15,18 +15,19 @@ E-mail: erkokl at gmail.com
 ### Software
 
  * [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
- * [SBVPlugin](http://leventerkok.github.io/sbvPlugin) GHC Core-plugin for SBV
- * [HArduino](http://leventerkok.github.io/hArduino) Control your Arduino board from Haskell
- * [LinearEqSolver](http://leventerkok.github.io/liearEqSolver) Solve systems of linear equations using SMT solvers
- * [CrackNum](http://leventerkok.github.io/CrackNum) Analyze/decode/encode IEEE 754 floating-point values.
- * [ISMT](http://corp.galois.com/isabelle-ismt) Yices SMT solver as an Isabelle theorem prover tactic.
+ * [SBVPlugin: GHC Core-plugin for SBV](http://github.com/LeventErkok/sbvPlugin)
+ * [HArduino: Control your Arduino from Haskell](http://leventerkok.github.io/hArduino)
+ * [Solve systems of Linear Equations](http://github.com/LeventErkok/linearEqSolver)
+ * [Decode/encode IEEE-754 Floating point numbers](http://github.com/LeventErkok/crackNum)
+ * [Sparse matrix linear equation solver](http://github.com/LeventErkok/conjugateGradient)
+ * [Yices as an Isabelle theorem prover tactic](http://github.com/LeventErkok/ismt)
 
 ### Papers
 
-<li><font size="2">Iavor Diatchi, Lee Pike, Levent Erkök<br>
-<b><i>Practical Considerations in Control-Flow Integrity Monitoring<br>
-<span style="font-style:normal;font-weight:normal"><b><i><span style="font-weight:normal;font-style:normal">In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE.<br>
-[<a href="https://sites.google.com/site/leventerkok/sectest11.pdf?attredirects=0">pdf</a>] [<a href="https://sites.google.com/site/leventerkok/sectest11.bib?attredirects=0">bib</a>]</span></i></b></span></i></b></font></li>
+ * Iavor Diatchi, Lee Pike, Levent Erkök  
+   [Practical Considerations in Control-Flow Integrity Monitoring](http://leventerkok.github.io/papers/sectest11.pdf)  
+   In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE.
+
 <li><font size="2">Levent&nbsp;Erkök, Magnus Carlsson, Adam Wick<br>
 <b><i>Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol<br>
 <span style="font-weight:normal;font-style:normal">In Formal Methods in Computer Aided Design Conference, FMCAD'09, Austin, TX, November 2009, IEEE.<br>
