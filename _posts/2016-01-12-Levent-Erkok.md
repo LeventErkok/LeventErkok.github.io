@@ -8,19 +8,21 @@ Intel Corporation
 Hillsboro, OR 97124
 E-mail: erkokl at gmail.com
 
-<p><span style="font-weight:bold;font-size:small">Curriculum Vitae&nbsp;</span></p>
-<ul><li><font size="2">CV [<a href="https://sites.google.com/site/leventerkok/erkok-cv.pdf?attredirects=0">pdf</a>]</font></li></ul>
-<div style="text-align:left">
-<p><span style="font-weight:bold"><font size="2">Software</font></span></p>
-<p><span style="font-size:small">My GitHub page is located at: <a href="http://github.com/LeventErkok">http://github.com/LeventErkok</a></span></p>
-<ul><li><font size="2"><a href="http://leventerkok.github.com/sbv/">SBV</a>: SMT Based Verification in Haskell (<a href="http://github.com/LeventErkok/sbv">source</a>,&nbsp;<a href="http://hackage.haskell.org/package/sbv">hackage</a>)</font></li>
-<li><font size="2"><a href="https://github.com/LeventErkok/sbvPlugin">SBVPlugin</a>: GHC Core-plugin for SBV (<a href="http://github.com/LeventErkok/sbvPlugin">source</a>,&nbsp;<a href="http://hackage.haskell.org/package/sbvPlugin">hackage</a>)</font></li>
-<li><font size="2"><a href="http://leventerkok.github.com/hArduino">hArduino</a>: Control your Arduino board from Haskell (<a href="http://github.com/LeventErkok/hArduino">source</a>,&nbsp;<a href="http://hackage.haskell.org/package/hArduino">hackage</a>)</font></li>
-<li><font size="2"><a href="https://github.com/LeventErkok/linearEqSolver">linearEqSolver</a>: Solve systems of linear equations using SMT solving (<a href="https://github.com/LeventErkok/linearEqSolver">source</a>,&nbsp;<a href="http://hackage.haskell.org/package/linearEqSolver">hackage</a>)</font></li>
-<li><font size="2"><a href="http://corp.galois.com/isabelle-ismt/">ISMT</a>: Yices SMT solver as an Isabelle theorem prover tactic.&nbsp;</font></li></ul>
-<p><span style="font-weight:bold"><font size="2">Publications</font></span></p>
-</div>
-<ul>
+## Curriculum Vitae
+   
+    * CV [pdf][1]
+    * [CV](https://sites.google.com/site/leventerkok/erkok-cv.pdf)
+
+## Software
+
+    * [SBV](http://leventerkok.github.io/sbv) SMT Based Verification in Haskell
+    * [SBVPlugin](http://leventerkok.github.io/sbv) GHC Core-plugin for SBV
+    * [HArduino](http://leventerkok.github.io/hArduino) Control your Arduino board from Haskell
+    * [LinearEqSolver](http://leventerkok.github.io/liearEqSolver) Solve systems of linear equations using SMT solvers
+    * [CrackNum](http://leventerkok.github.io/CrackNum) Analyze/decode/encode IEEE 754 floating-point values.
+    * [ISMT](http://corp.galois.com/isabelle-ismt) Yices SMT solver as an Isabelle theorem prover tactic.
+
+## Papers
 
 <li><font size="2">Iavor Diatchi, Lee Pike, Levent Erkök<br>
 <b><i>Practical Considerations in Control-Flow Integrity Monitoring<br>
