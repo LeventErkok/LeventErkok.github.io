@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-12T19:25:38-08:00</updated>
+ <updated>2016-01-12T19:53:43-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -22,25 +22,24 @@
 Hillsboro, OR 97124
 E-mail: erkokl at gmail.com&lt;/p&gt;
 
-&lt;h2 id=&quot;curriculum-vitae&quot;&gt;Curriculum Vitae&lt;/h2&gt;
+&lt;h3 id=&quot;curriculum-vitae&quot;&gt;Curriculum Vitae&lt;/h3&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* CV [pdf][1]
-* [CV](https://sites.google.com/site/leventerkok/erkok-cv.pdf)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;papers/erkok-cv.pdf&quot;&gt;CV&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;software&quot;&gt;Software&lt;/h2&gt;
+&lt;h3 id=&quot;software&quot;&gt;Software&lt;/h3&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* [SBV](http://leventerkok.github.io/sbv) SMT Based Verification in Haskell
-* [SBVPlugin](http://leventerkok.github.io/sbv) GHC Core-plugin for SBV
-* [HArduino](http://leventerkok.github.io/hArduino) Control your Arduino board from Haskell
-* [LinearEqSolver](http://leventerkok.github.io/liearEqSolver) Solve systems of linear equations using SMT solvers
-* [CrackNum](http://leventerkok.github.io/CrackNum) Analyze/decode/encode IEEE 754 floating-point values.
-* [ISMT](http://corp.galois.com/isabelle-ismt) Yices SMT solver as an Isabelle theorem prover tactic.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbv&quot;&gt;SBV: SMT Based Verification in Haskell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbvPlugin&quot;&gt;SBVPlugin&lt;/a&gt; GHC Core-plugin for SBV&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/hArduino&quot;&gt;HArduino&lt;/a&gt; Control your Arduino board from Haskell&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/liearEqSolver&quot;&gt;LinearEqSolver&lt;/a&gt; Solve systems of linear equations using SMT solvers&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/CrackNum&quot;&gt;CrackNum&lt;/a&gt; Analyze/decode/encode IEEE 754 floating-point values.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://corp.galois.com/isabelle-ismt&quot;&gt;ISMT&lt;/a&gt; Yices SMT solver as an Isabelle theorem prover tactic.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 id=&quot;papers&quot;&gt;Papers&lt;/h2&gt;
+&lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
 
 &lt;li&gt;&lt;font size=&quot;2&quot;&gt;Iavor Diatchi, Lee Pike, Levent Erkök&lt;br /&gt;
 &lt;b&gt;&lt;i&gt;Practical Considerations in Control-Flow Integrity Monitoring&lt;br /&gt;

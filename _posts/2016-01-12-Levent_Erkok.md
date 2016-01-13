@@ -8,21 +8,20 @@ Intel Corporation
 Hillsboro, OR 97124
 E-mail: erkokl at gmail.com
 
-## Curriculum Vitae
+### Curriculum Vitae
    
-    * CV [pdf][1]
-    * [CV](https://sites.google.com/site/leventerkok/erkok-cv.pdf)
+ * [CV](papers/erkok-cv.pdf)
 
-## Software
+### Software
 
-    * [SBV](http://leventerkok.github.io/sbv) SMT Based Verification in Haskell
-    * [SBVPlugin](http://leventerkok.github.io/sbv) GHC Core-plugin for SBV
-    * [HArduino](http://leventerkok.github.io/hArduino) Control your Arduino board from Haskell
-    * [LinearEqSolver](http://leventerkok.github.io/liearEqSolver) Solve systems of linear equations using SMT solvers
-    * [CrackNum](http://leventerkok.github.io/CrackNum) Analyze/decode/encode IEEE 754 floating-point values.
-    * [ISMT](http://corp.galois.com/isabelle-ismt) Yices SMT solver as an Isabelle theorem prover tactic.
+ * [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
+ * [SBVPlugin](http://leventerkok.github.io/sbvPlugin) GHC Core-plugin for SBV
+ * [HArduino](http://leventerkok.github.io/hArduino) Control your Arduino board from Haskell
+ * [LinearEqSolver](http://leventerkok.github.io/liearEqSolver) Solve systems of linear equations using SMT solvers
+ * [CrackNum](http://leventerkok.github.io/CrackNum) Analyze/decode/encode IEEE 754 floating-point values.
+ * [ISMT](http://corp.galois.com/isabelle-ismt) Yices SMT solver as an Isabelle theorem prover tactic.
 
-## Papers
+### Papers
 
 <li><font size="2">Iavor Diatchi, Lee Pike, Levent Erkök<br>
 <b><i>Practical Considerations in Control-Flow Integrity Monitoring<br>
