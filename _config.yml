@@ -30,6 +30,3 @@ github:
 
 # Gems
 gems: [jekyll-paginate, jekyll-gist]
-
-pages_list:       
-  About: '/about'
