@@ -5,6 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Levent Erkök
+tagline:             Levent Erkök
 url:                 http://leventerkok.github.io/
 paginate:            1
 baseurl:             ""
