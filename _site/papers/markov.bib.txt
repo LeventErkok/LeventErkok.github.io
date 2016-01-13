@@ -1,0 +1,12 @@
+@TechReport{bayazit-erkok-uludag-vural-95,
+   author  = "Osman {Bur\c{c}han} {Bayaz{\i}t} and 
+              Levent {Erk\"{o}k} and 
+	      Okan {Uluda\u{g}} and
+	      Fato\c{s} Yarman Vural",
+   title   = "Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations",
+   institution = "Department of Computer Engineering,
+                  Middle East Technical University",
+   year    = "1995",
+   month   = "July",
+   number  = "95-10",
+}

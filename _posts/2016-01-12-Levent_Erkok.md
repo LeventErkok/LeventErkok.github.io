@@ -26,7 +26,7 @@ E-mail: erkokl at gmail.com
 
  * Iavor Diatchi, Lee Pike, Levent Erkök  
    [Practical Considerations in Control-Flow Integrity Monitoring](http://leventerkok.github.io/papers/sectest11.pdf)  
-   In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE. [(bib)](http://leventerkok.github.io/papers/sectest11.txt.bib)
+   In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE. [(bib)](http://leventerkok.github.io/papers/sectest11.bib.txt)
 
 
 <li><font size="2">Levent&nbsp;Erkök, Magnus Carlsson, Adam Wick<br>

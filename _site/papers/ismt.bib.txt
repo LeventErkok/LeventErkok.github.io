@@ -1,0 +1,9 @@
+@Inproceedings{erkok-matthews-ismt-08,
+   author    = "Levent {Erk\"{o}k} and John Matthews",
+   title     = "Using {Y}ices as an automated solver in {I}sabelle/{HOL}",
+   booktitle = "Automated Formal Methods'08, Princeton, New Jersey, USA",
+   publisher = "ACM Press",
+   month     = jul,
+   pages     = "3--13",
+   year      = "2008",
+}
