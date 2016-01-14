@@ -12,7 +12,7 @@ E-mail: erkokl at gmail.com
    
  * [CV](http://leventerkok.github.io/papers/erkok-cv.pdf)
 
-### Software [On Github](http://github.com/LeventErkok)
+### Software [(on GitHub)](http://github.com/LeventErkok)
 
  * [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
  * [SBVPlugin: GHC Core-plugin for SBV](http://github.com/LeventErkok/sbvPlugin)
