@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-13T19:24:04-08:00</updated>
+ <updated>2016-01-13T19:28:07-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -57,103 +57,103 @@ In Second International Workshop on Security Testing Workshop, SECTEST’11, Ber
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, Magnus Carlsson, Adam Wick&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_FMCAD09.pdf&quot;&gt;Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_FMCAD09.pdf&quot;&gt;&lt;em&gt;Hardware/Software Co-verification of Cryptographic Algorithms using Cryptol&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 In Formal Methods in Computer Aided Design Conference, FMCAD’09, Austin, TX, November 2009, IEEE.
 &lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_FMCAD09Slides.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/coverification.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Matthews&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/csiirw_09.pdf&quot;&gt;High assurance programming in Cryptol&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/csiirw_09.pdf&quot;&gt;&lt;em&gt;High assurance programming in Cryptol&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 In CSIIRW’09: Proceedings of the 5th Annual Workshop on Cyber Security and Information Intelligence Research, Oak Ridge, TN, April 2009, ACM.
 &lt;a href=&quot;http://leventerkok.github.io/papers/csiirw_09.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Matthews&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_PLPV09.pdf&quot;&gt;Pragmatic Equivalence and Safety Checking in Cryptol&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_PLPV09.pdf&quot;&gt;&lt;em&gt;Pragmatic Equivalence and Safety Checking in Cryptol&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 In Programming Languages meets Program Verification Workshop, PLPV’09. Savannah, Georgia, USA. January, 2009.
 &lt;a href=&quot;http://leventerkok.github.io/papers/cryptol_PLPV09_Slides.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/plpv09.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Lukas Bulwahn, Alexander Krauss, Florian Haftmann, Levent Erkök, John Matthews&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/imfphol_tphols08.pdf&quot;&gt;Imperative Functional Programming with Isabelle/HOL&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/imfphol_tphols08.pdf&quot;&gt;&lt;em&gt;Imperative Functional Programming with Isabelle/HOL&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Proc. of 2008 Theorem Proving and Higher Order Logics Conference, TPHOLS’08. Montreal, Canada. August, 2008.
 &lt;a href=&quot;http://leventerkok.github.io/papers/imfphol.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Matthews&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/ismt_afm08.pdf&quot;&gt;Using Yices as an automated solver in Isabelle/HOL&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/ismt_afm08.pdf&quot;&gt;&lt;em&gt;Using Yices as an automated solver in Isabelle/HOL&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Automated Formal Methods’08, Princeton, New Jersey, USA. July, 2008.
 &lt;a href=&quot;http://leventerkok.github.io/papers/ismt_afm08Talk.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/ismt.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Rebekah Leslie, Levent Erkök, Flemming Andersen&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/hhv.pdf&quot;&gt;Formalizing Information Flow in a Haskell Hypervisor&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/hhv.pdf&quot;&gt;&lt;em&gt;Formalizing Information Flow in a Haskell Hypervisor&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Microkernels and Embedded Systems Workshop, MIKES’07. Sydney, Australia. January, 2007.
 &lt;a href=&quot;http://leventerkok.github.io/papers/hhv.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/ctapc.pdf&quot;&gt;Application of formal methods in factory automation to reduce configuration-induced misprocessing risks&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/ctapc.pdf&quot;&gt;&lt;em&gt;Application of formal methods in factory automation to reduce configuration-induced misprocessing risks&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 International Sematech APC/AEC Symposium XVI, Poster Session, September 2004.
 &lt;a href=&quot;http://leventerkok.github.io/papers/apc04.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök&lt;br /&gt;
-Formal verification of controller transactions using Computation Tree Logic&lt;br /&gt;
+&lt;em&gt;Formal verification of controller transactions using Computation Tree Logic&lt;/em&gt;  &lt;br /&gt;
 Intel Design and Test Technology Conference, DTTC’04, August 2004.
 [not electronically available] &lt;a href=&quot;http://leventerkok.github.io/papers/dttc04.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis.pdf&quot;&gt;Value Recursion in Monadic Computations&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis.pdf&quot;&gt;&lt;em&gt;Value Recursion in Monadic Computations&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 PhD Dissertation, Oregon Graduate Institute School of Science Engineering, OHSU. October 2002.
 &lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis.bib.txt&quot;&gt;(bib)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/erkok-defenseSlides.pdf&quot;&gt;(slides)&lt;/a&gt; &lt;a href=&quot;http://leventerkok.github.io/papers/erkok-thesis-errata.pdf&quot;&gt;(errata)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/recdo.pdf&quot;&gt;A Recursive do for Haskell&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/recdo.pdf&quot;&gt;&lt;em&gt;A Recursive do for Haskell&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Proc. of 2002 ACM SIGPLAN Workshop on Haskell, Haskell’02 (Pittsburgh, PA, USA, 3 Oct. 2002), pp. 29-37, ACM Press, 2002.
 &lt;a href=&quot;http://leventerkok.github.io/papers/recdo.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/tiaFixIO.pdf&quot;&gt;Semantics of Value Recursion for Monadic Input/Output&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/tiaFixIO.pdf&quot;&gt;&lt;em&gt;Semantics of Value Recursion for Monadic Input/Output&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Theoretical Informatics and Applications, 36(2), pp. 155-180, 2002.
 &lt;a href=&quot;http://leventerkok.github.io/papers/tiaFixIO.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury, Andrew Moran&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/fics.pdf&quot;&gt;Semantics of fixIO&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/fics.pdf&quot;&gt;&lt;em&gt;Semantics of fixIO&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Workshop on Fixed points in Computer Science Workshop, FICS’01. Firenze, Italy. September, 2001.
 &lt;a href=&quot;http://leventerkok.github.io/papers/fics.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/mfix.pdf&quot;&gt;Recursive Monadic Bindings&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfix.pdf&quot;&gt;&lt;em&gt;Recursive Monadic Bindings&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Proc. of 5th ACM SIGPLAN Int. Conf. on Functional Programming, ICFP’00 (Montréal, Canada, 18–21 Sept. 2000), pp. 174-185, ACM Press, 2000.
 &lt;a href=&quot;http://leventerkok.github.io/papers/mfix.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/mdo.pdf&quot;&gt;A Recursive do for Haskell: Design and Implementation&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mdo.pdf&quot;&gt;&lt;em&gt;A Recursive do for Haskell: Design and Implementation&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Technical Report CSE-00-14, Oregon Graduate Institute Of Science and Technology, August 2000.
 &lt;a href=&quot;http://leventerkok.github.io/papers/mdo.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök, John Launchbury&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/mfixTR.pdf&quot;&gt;Recursive Monadic Bindings: Technical Development and Details&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/mfixTR.pdf&quot;&gt;&lt;em&gt;Recursive Monadic Bindings: Technical Development and Details&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Technical Report CSE-00-11, Oregon Graduate Institute Of Science and Technology, June 2000.
 &lt;a href=&quot;http://leventerkok.github.io/papers/mfixTR.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Levent Erkök&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-msc.pdf&quot;&gt;A partial evaluator and post-optimizer for a flow chart language&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-msc.pdf&quot;&gt;&lt;em&gt;A partial evaluator and post-optimizer for a flow chart language&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 M.Sc. Thesis, Middle East Technical University, Ankara, Turkey. July 1997.
 &lt;a href=&quot;http://leventerkok.github.io/papers/msc.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Osman Burçhan Bayazıt, Levent Erkök, Okan Uludağ, Fatoş Yarman Vural&lt;br /&gt;
-&lt;a href=&quot;http://leventerkok.github.io/papers/markov.pdf&quot;&gt;Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://leventerkok.github.io/papers/markov.pdf&quot;&gt;&lt;em&gt;Gray Level Texture Generation by Binary Markov Random Field Model with Morphological Operations&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
 Technical Report 95-10, Middle East Technical University Computer Engineering Department, July 1995.
 &lt;a href=&quot;http://leventerkok.github.io/papers/markov.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
