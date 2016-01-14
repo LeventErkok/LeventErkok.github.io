@@ -24,6 +24,11 @@ E-mail: erkokl at gmail.com
 
 ### Papers
 
+ * Levent Erkök, Flemming Andersen, John Matthews
+   Formal Verification of SECDED-ECC RTL using functional programs as golden models
+   Intel Design and Test Technology Conference, DTTC'12, 2012.
+   [pdf not electronically available] [(bib)](http://leventerkok.github.io/papers/dttc12.bib.txt)
+
  * Iavor Diatchi, Lee Pike, Levent Erkök  
    [Practical Considerations in Control-Flow Integrity Monitoring](http://leventerkok.github.io/papers/sectest11.pdf)  
    In Second International Workshop on Security Testing Workshop, SECTEST'11, Berlin, Germany, March 2011, IEEE.

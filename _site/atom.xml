@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-12T23:07:17-08:00</updated>
+ <updated>2016-01-13T19:19:58-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -43,6 +43,12 @@ E-mail: erkokl at gmail.com&lt;/p&gt;
 &lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Levent Erkök, Flemming Andersen, John Matthews
+Formal Verification of SECDED-ECC RTL using functional programs as golden models
+Intel Design and Test Technology Conference, DTTC’12, 2012.
+[pdf not electronically available] &lt;a href=&quot;http://leventerkok.github.io/papers/dttc12.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Iavor Diatchi, Lee Pike, Levent Erkök&lt;br /&gt;
 &lt;a href=&quot;http://leventerkok.github.io/papers/sectest11.pdf&quot;&gt;Practical Considerations in Control-Flow Integrity Monitoring&lt;/a&gt;&lt;br /&gt;
