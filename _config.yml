@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Levent Erkök
 tagline:             Levent Erkök
 url:                 http://leventerkok.github.io/
-paginate:            100
+paginate:            1
 baseurl:             ""
 
 # Assets
