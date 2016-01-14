@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-13T19:19:58-08:00</updated>
+ <updated>2016-01-13T19:21:44-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -44,8 +44,8 @@ E-mail: erkokl at gmail.com&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Levent Erkök, Flemming Andersen, John Matthews
-Formal Verification of SECDED-ECC RTL using functional programs as golden models
+    &lt;p&gt;Levent Erkök, Flemming Andersen, John Matthews&lt;br /&gt;
+Formal Verification of SECDED-ECC RTL using functional programs as golden models&lt;br /&gt;
 Intel Design and Test Technology Conference, DTTC’12, 2012.
 [pdf not electronically available] &lt;a href=&quot;http://leventerkok.github.io/papers/dttc12.bib.txt&quot;&gt;(bib)&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;

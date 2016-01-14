@@ -24,8 +24,8 @@ E-mail: erkokl at gmail.com
 
 ### Papers
 
- * Levent Erkök, Flemming Andersen, John Matthews
-   Formal Verification of SECDED-ECC RTL using functional programs as golden models
+ * Levent Erkök, Flemming Andersen, John Matthews  
+   Formal Verification of SECDED-ECC RTL using functional programs as golden models  
    Intel Design and Test Technology Conference, DTTC'12, 2012.
    [pdf not electronically available] [(bib)](http://leventerkok.github.io/papers/dttc12.bib.txt)
 
