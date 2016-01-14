@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-13T20:07:35-08:00</updated>
+ <updated>2016-01-14T08:14:17-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -28,7 +28,7 @@ E-mail: erkokl at gmail.com&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/papers/erkok-cv.pdf&quot;&gt;CV&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;software&quot;&gt;Software&lt;/h3&gt;
+&lt;h3 id=&quot;software-httpsgithubcomleventerkok&quot;&gt;Software (https://github.com/LeventErkok)&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbv&quot;&gt;SBV: SMT Based Verification in Haskell&lt;/a&gt;&lt;/li&gt;
