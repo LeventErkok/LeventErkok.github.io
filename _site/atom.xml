@@ -4,7 +4,7 @@
  <title>Levent Erkök</title>
  <link href="http://leventerkok.github.io//atom.xml" rel="self"/>
  <link href="http://leventerkok.github.io//"/>
- <updated>2016-01-16T15:27:45-08:00</updated>
+ <updated>2016-01-18T13:29:51-08:00</updated>
  <id>http://leventerkok.github.io/</id>
  <author>
    <name>Levent Erkök</name>
@@ -31,13 +31,13 @@ E-mail: erkokl at gmail.com&lt;/p&gt;
 &lt;h3 id=&quot;software-on-githubhttpgithubcomleventerkok&quot;&gt;Software &lt;a href=&quot;http://github.com/LeventErkok&quot;&gt;(on GitHub)&lt;/a&gt;&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/sbv&quot;&gt;SBV: SMT Based Verification in Haskell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/sbvPlugin&quot;&gt;SBVPlugin: GHC Core-plugin for SBV&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://leventerkok.github.io/hArduino&quot;&gt;HArduino: Control your Arduino from Haskell&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/linearEqSolver&quot;&gt;Solve systems of Linear Equations&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/crackNum&quot;&gt;Decode/encode IEEE-754 Floating point numbers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/conjugateGradient&quot;&gt;Sparse matrix linear equation solver&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/ismt&quot;&gt;Yices as an Isabelle theorem prover tactic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/sbv&quot;&gt;SBV&lt;/a&gt;: &lt;a href=&quot;http://leventerkok.github.io/sbv&quot;&gt;SMT Based Verification in Haskell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/sbvPlugin&quot;&gt;SBVPlugin&lt;/a&gt;: &lt;a href=&quot;http://github.com/LeventErkok/sbvPlugin&quot;&gt;GHC Core-plugin for SBV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/hArduino&quot;&gt;HArduino&lt;/a&gt;: &lt;a href=&quot;http://leventerkok.github.io/hArduino&quot;&gt;Control your Arduino from Haskell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/linearEqSolver&quot;&gt;Linear&lt;/a&gt;: &lt;a href=&quot;http://github.com/LeventErkok/linearEqSolver&quot;&gt;Solve systems of Linear Equations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/crackNum&quot;&gt;CrackNum&lt;/a&gt;: &lt;a href=&quot;http://github.com/LeventErkok/crackNum&quot;&gt;Decode/encode IEEE-754 Floating point numbers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hackage.haskell.org/package/conjugateGradient&quot;&gt;ConjugateGradient&lt;/a&gt;: &lt;a href=&quot;http://github.com/LeventErkok/conjugateGradient&quot;&gt;Sparse matrix linear equation solver&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/LeventErkok/ismt&quot;&gt;ISMT: Yices as an Isabelle theorem prover tactic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;papers&quot;&gt;Papers&lt;/h3&gt;

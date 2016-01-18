@@ -14,13 +14,13 @@ E-mail: erkokl at gmail.com
 
 ### Software [(on GitHub)](http://github.com/LeventErkok)
 
- * [SBV: SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
- * [SBVPlugin: GHC Core-plugin for SBV](http://github.com/LeventErkok/sbvPlugin)
- * [HArduino: Control your Arduino from Haskell](http://leventerkok.github.io/hArduino)
- * [Solve systems of Linear Equations](http://github.com/LeventErkok/linearEqSolver)
- * [Decode/encode IEEE-754 Floating point numbers](http://github.com/LeventErkok/crackNum)
- * [Sparse matrix linear equation solver](http://github.com/LeventErkok/conjugateGradient)
- * [Yices as an Isabelle theorem prover tactic](http://github.com/LeventErkok/ismt)
+ * [SBV](http://hackage.haskell.org/package/sbv): [SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
+ * [SBVPlugin](http://hackage.haskell.org/package/sbvPlugin): [GHC Core-plugin for SBV](http://github.com/LeventErkok/sbvPlugin)
+ * [HArduino](http://hackage.haskell.org/package/hArduino): [Control your Arduino from Haskell](http://leventerkok.github.io/hArduino)
+ * [Linear](http://hackage.haskell.org/package/linearEqSolver): [Solve systems of Linear Equations](http://github.com/LeventErkok/linearEqSolver)
+ * [CrackNum](http://hackage.haskell.org/package/crackNum): [Decode/encode IEEE-754 Floating point numbers](http://github.com/LeventErkok/crackNum)
+ * [ConjugateGradient](http://hackage.haskell.org/package/conjugateGradient): [Sparse matrix linear equation solver](http://github.com/LeventErkok/conjugateGradient)
+ * [ISMT: Yices as an Isabelle theorem prover tactic](http://github.com/LeventErkok/ismt)
 
 ### Papers
 
