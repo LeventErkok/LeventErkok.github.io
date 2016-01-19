@@ -1,6 +1,3 @@
-watch:
-	jekyll b --watch
-
 serve:
 	jekyll s
 	

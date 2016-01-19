@@ -1,8 +1,0 @@
-@Inproceedings{leslie-erkok-andersen-07,
-   author    = "Rebekah Leslie and Levent {Erk\"{o}k} and Flemming Andersen",
-   title     = "Formalizing Information Flow in a {H}askell Hypervisor",
-   booktitle = "Workshop on Microkernels for Embedded Systems, MIKES'07, 
-                Sydney, Australia",
-   month     = jan,
-   year      = "2007",
-}

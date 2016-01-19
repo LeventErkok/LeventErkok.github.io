@@ -1,6 +1,0 @@
-@InProceedings{erkok-andersen-matthews-dttc-12,
-   author    = "Levent {Erk\"{o}k} and Flemming Andersen and John Matthews",
-   title     = "Formal Verification of {SECDED}-{ECC} {RTL} using functional programs as golden models",
-   booktitle = "Intel Design and Test Technology Conference, {DTTC'12}",
-   year      = "2012"
-}       
