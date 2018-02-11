@@ -29,4 +29,4 @@ github:
   repo:              http://leventerkok.github.io/
 
 # Gems
-gems: [jekyll-paginate, jekyll-gist]
+plugins: [jekyll-paginate, jekyll-gist]
