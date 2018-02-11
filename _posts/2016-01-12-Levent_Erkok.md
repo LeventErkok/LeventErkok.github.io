@@ -31,7 +31,6 @@ E-mail: erkokl at gmail.com
 
  * Levent Erkök, Noura Amjadi
    _Counting ECC failures using Formal Methods to substantiate RAS claims._
-
    Intel Design and Test Technology Conference, DTTC'17, 2017.
    [not electronically available] [(bib)](http://leventerkok.github.io/papers/dttc17.bib.txt)
 
