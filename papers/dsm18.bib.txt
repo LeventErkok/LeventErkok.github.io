@@ -1,0 +1,22 @@
+@article{ferguson-bingham-erkok-harrison-hurd-dsm-2018,
+  author = {Ferguson, Warren E. and Bingham, Jesse and {Erk\"{o}k}, Levent and Harrison, John R. and Leslie-Hurd, Joe},
+  title = {Digit Serial Methods with Applications to Division and Square Root},
+  journal = {IEEE Transactions on Computers},
+  volume = 67,
+  number = 3,
+  pages = {449--456},
+  month = mar,
+  year = 2018,
+  preprint = {http://arxiv.org/abs/1708.00140},
+  doi = {http://doi.org/10.1109/TC.2017.2759764},
+  url = {http://ieeexplore.ieee.org/document/8060979/},
+  abstract =
+{We present a generic digit serial method (DSM) to compute the digits
+of a real number V. Bounds on these digits, and on the errors in the
+associated estimates of V formed from these digits, are derived. To
+illustrate our results, we derive bounds for a parameterized family of
+high-radix algorithms for division and square root. These bounds
+enable hardware designers to determine, for example, whether a given
+choice of DSM parameters allows rapid formation and rounding of
+approximations to V.}
+}

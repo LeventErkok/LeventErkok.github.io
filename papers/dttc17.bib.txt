@@ -1,0 +1,6 @@
+@InProceedings{erkok-amjadi-17,
+   author    = "Levent {Erk\"{o}k} and Noura Amjadi",
+   title     = "Counting {ECC} failures using {F}ormal {M}ethods to substantiate {RAS} claims",
+   booktitle = "Intel Design and Test Technology Conference, {DTTC'17}",
+   year      = "2017",
+}
