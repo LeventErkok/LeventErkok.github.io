@@ -27,7 +27,7 @@ E-mail: erkokl at gmail.com
 
  * Warren E. Ferguson, Jesse Bingham, Levent Erkök, John R. Harrison, Joe Leslie-Hurd.
    [_Digit serial methods with aplications to division and square root._](http://leventerkok.github.io/papers/dsm18.pdf)
-   IEEE Transactions on Computers, 67(3):449--456, March 2018. [(bib)](http://leventerkok.github.io/papers/dsm18.bib.txt) [(Extended version with proofs at Arxiv)](https://arxiv.org/abs/1708.00140)
+   IEEE Transactions on Computers, 67(3):449--456, March 2018. [(bib)](http://leventerkok.github.io/papers/dsm18.bib.txt) [(Arxiv version with proofs)](https://arxiv.org/abs/1708.00140)
 
  * Levent Erkök, Noura Amjadi.
    _Counting ECC failures using Formal Methods to substantiate RAS claims._
