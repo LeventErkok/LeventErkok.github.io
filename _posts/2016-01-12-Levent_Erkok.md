@@ -4,7 +4,9 @@ title: Levent Erkök
 ---
 
 Formal Verification Engineer at Apple, Beaverton, OR.
+
 E-mail: erkokl at gmail.com  
+
 Linked-in: https://www.linkedin.com/in/leventerkok/
 
 ### Curriculum Vitae
