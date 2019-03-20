@@ -3,7 +3,7 @@ layout: post
 title: Levent Erkök
 ---
 
-Formal Verification Engineer at Apple,\nbsp
+Formal Verification Engineer at Apple,<br/>
 Beaverton, OR.
 
 ### Basics
