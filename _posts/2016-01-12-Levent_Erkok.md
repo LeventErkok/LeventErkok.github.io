@@ -3,10 +3,9 @@ layout: post
 title: Levent Erkök
 ---
 
-Intel Corporation  
-2501 NW 229th Ave  
-Hillsboro, OR 97124  
+Formal Verification Engineer at Apple, Beaverton, OR.
 E-mail: erkokl at gmail.com  
+Linked-in: https://www.linkedin.com/in/leventerkok/
 
 ### Curriculum Vitae
    
