@@ -14,7 +14,7 @@ Beaverton, OR.
 
 ### Software [(on GitHub)](http://github.com/LeventErkok)
 
- * [SBV](http://hackage.haskell.org/package/sbv): [SMT Based Verification in Haskell](http://leventerkok.github.io/sbv)
+ * [SBV](http://hackage.haskell.org/package/sbv): [SMT Based Verification in Haskell](http://github.com/LeventErkok/sbv)
  * [SBVPlugin](http://hackage.haskell.org/package/sbvPlugin): [GHC Core-plugin for SBV](http://github.com/LeventErkok/sbvPlugin)
  * [HArduino](http://hackage.haskell.org/package/hArduino): [Control your Arduino from Haskell](http://leventerkok.github.io/hArduino)
  * [Linear](http://hackage.haskell.org/package/linearEqSolver): [Solve systems of Linear Equations](http://github.com/LeventErkok/linearEqSolver)
