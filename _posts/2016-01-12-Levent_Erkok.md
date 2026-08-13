@@ -3,8 +3,8 @@ layout: post
 title: Levent Erkök
 ---
 
-Formal Verification Engineer at Apple.<br/>
-Beaverton, OR.
+Principal Engineer, Formal Verification at NVIDIA.<br/>
+Portland, OR.
 
 ### Basics
    
